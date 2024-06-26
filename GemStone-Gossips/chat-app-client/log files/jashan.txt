@@ -1,0 +1,16 @@
+7 March 8:00PM
+ran npx create-react-app
+
+8 March 11:30PM
+started backend work
+installed expressJS,nodemon,dotenv,mongoose
+
+9 March 
+installed mongodb
+
+11 March
+started frontend
+installed material ui 
+
+14 March
+installed jsonwebtoken(JWT),bcryptjs
